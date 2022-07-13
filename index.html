@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Sudoku solver</title>
+  <meta name="description" content="Sudoku solver. Solving sudoku using backtraking">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <link href='http://fonts.googleapis.com/css?family=Roboto' rel='noreferrer' type='text/css'>
+  <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body onload="init()">
+
+  <div class="nav">
+    <div class="header">
+      <h1><i><b>Sudoku</b></i></h1>
+    </div>
+    <input type="checkbox" class="toggle">
+    <div class="hamburger">
+      <div>
+
+      </div>
+    </div>
+
+    <div class="menu">
+      <div>
+        <a class="active" href="index.html">Home</a>
+        <a href="help.html">Help</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="left">
+      <table class="sudoku">
+
+      </table>
+    </div>
+    <div class="right">
+      <button id="solve">Solve</button>
+      <button id="generate">Generate</button>
+      <button id="clear">Clear</button>
+    </div>
+
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="main.js"></script>
+</body>
+
+</html>
