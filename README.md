@@ -20,8 +20,7 @@ The sudoku is essentially a constraint satisfaction problem. Each empty cell has
 4. Repeat steps 1 to 3 until all the cells are filled
 
 Finding the next cell to fill requires a heuristic. The cell with the least number of potential numbers is chosen everytime. This reduces the number of backtracks significantly.
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/95221972/181870788-6e563e46-a512-4e72-9be1-f98ffe051479.mp4" >
-</p>
 
-<a href="https://user-images.githubusercontent.com/95221972/181870788-6e563e46-a512-4e72-9be1-f98ffe051479.mp4"></a>
+![](https://user-images.githubusercontent.com/95221972/181872541-a3d3062c-2a43-4cdd-a8dc-fbd139412196.gif)
+
+
