@@ -8,5 +8,5 @@ A web-based game based on the concepts of **recursion and backtracking** , that 
 This web application features generating and solving standard 9x9 Sudoku puzzles using the **backtracking algorihtm** for the same.
 
 <p align="center">
-    <![hi](https://user-images.githubusercontent.com/95221972/181866479-27f021db-759d-4c69-8f1f-41d0360cc851.png)" width=350>
+    <![hi]"(https://user-images.githubusercontent.com/95221972/181866479-27f021db-759d-4c69-8f1f-41d0360cc851.png)" width=350>
 </p>
