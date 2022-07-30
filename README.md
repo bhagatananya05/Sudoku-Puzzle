@@ -7,8 +7,8 @@ A web-based game based on the concepts of **recursion and backtracking** , that 
 
 This web application features generating and solving standard 9x9 Sudoku puzzles using the **backtracking algorihtm** for the same.
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/95221972/181866479-27f021db-759d-4c69-8f1f-41d0360cc851.png" width=350>
+<p>
+    <img src="https://user-images.githubusercontent.com/95221972/181872637-34fa141d-6f4c-416f-91cf-e6f1806b3634.png" width=500>
 </p>
 
 ## Working of the Algorithm 
@@ -21,6 +21,9 @@ The sudoku is essentially a constraint satisfaction problem. Each empty cell has
 
 Finding the next cell to fill requires a heuristic. The cell with the least number of potential numbers is chosen everytime. This reduces the number of backtracks significantly.
 
-![](https://user-images.githubusercontent.com/95221972/181872541-a3d3062c-2a43-4cdd-a8dc-fbd139412196.gif)
+### **<a href="https://bhagatananya05.github.io/Sudoku-Puzzle/">Demo</a>**
+
+![](https://user-images.githubusercontent.com/95221972/181872541-a3d3062c-2a43-4cdd-a8dc-fbd139412196.gif) 
+
 
 
